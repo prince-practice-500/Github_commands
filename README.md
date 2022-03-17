@@ -27,3 +27,5 @@ git checkout master = to switch to the master branch from your current branch.
 git branch = to get all the branches names and *shows that - in which branch - you are currently in.
 git status = it shows the status of the files in which you made changes. (it shows files that are not addded in red color, and  shows files in green color - which are added )
 git commit = jo file hari (green) ho jaaye.. commit krne par vo hari files commit (or save locally) ho jaaeyngi.
+
+a
