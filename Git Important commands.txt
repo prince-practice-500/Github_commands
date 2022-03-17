@@ -1,0 +1,34 @@
+1. git init = .git file will be created in the folder and this .git file contains the history of the all the commits (or you can say - this file stores the history of the project). And this file is hidden.
+
+2. git log = this command is used to get the history of the commits that we made.
+
+3. rm -rf file_name = bro, this command is used to delete a file.
+
+============
+4. git reset commit_id = 
+lets say we have made 3 commits.
+First, we committed a.
+then, we commited b.
+then, we committed c.
+
+Ab hame vo code chahiye jaise tab tha, jb a ko commit kia tha.
+then we can give this command - 
+command = git reset a
+
+and ab jo bhi changes b and c commit me hue honge, they will be unstaged now.
+===========
+
+5. git stash = it is used to keep staged changes somewhere without committing those changes. You can get those changes back by writing "git stash pop").
+
+6. git stash pop = its usage is mentioned in above one.
+
+7. In  Windows - 
+a. mkdir file_name= to create a folder (or directory).
+b. dir = to list all the files and folders in a directory.
+3. echo > file_name.extension = to create a file in a directory.
+
+8. git restore --staged <file>  = to unstage
+
+9. git remote add uprstream url_of_forked_from = url_of_forked_from is the url of the repository from where we have forked it in our account.
+
+10. 
